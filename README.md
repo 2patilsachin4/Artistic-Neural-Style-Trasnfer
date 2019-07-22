@@ -3,6 +3,9 @@ This project is a part of the course Convolutional Neural Networks in Deep Learn
 
 Merges the style of two images using a convolutional neural network
 
+## The original images
+![claude-monet](https://user-images.githubusercontent.com/24851079/61640967-dc83d580-acbb-11e9-8df3-2681e0cd32cb.jpg)![louvre](https://user-images.githubusercontent.com/24851079/61640968-dc83d580-acbb-11e9-8778-3dd67ed7a389.jpg)
+
 
 ## 0 iterations
 ![0](https://user-images.githubusercontent.com/24851079/61640647-51a2db00-acbb-11e9-93bd-6a3828a237e9.png)
